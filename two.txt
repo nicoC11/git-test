@@ -1,1 +1,3 @@
 chauuuu
+
+print("hello world")
